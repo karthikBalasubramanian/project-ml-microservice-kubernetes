@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://app.circleci.com/pipelines/github/karthikBalasubramanian/project-ml-microservice-kubernetes/3/workflows/87c6bc4a-c5c5-4630-a9e3-c6201b1b0096)
 
 ## Project Overview
 
